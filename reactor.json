@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "the0xLuke",
+    "repo": "uniswap",
+    "branch": "master"
+  },
+  "name": "Uniswap",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1004
+}
